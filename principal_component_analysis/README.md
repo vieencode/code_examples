@@ -1,6 +1,6 @@
 ## How to create a PCA plot with python
 
-> "This repository is the supplementary material for the blogpost ["How to create a PCA plot with python"](http://127.0.0.1:8000/2023/1/2/how-to-create-a-pca-plot-with-python/)"
+> "This repository is the supplementary material for the blogpost ["How to create a PCA plot with python"](http://127.0.0.1:8000/2023/1/2/how-to-create-a-pca-plot-with-python/)
 
 ### Create environment
 

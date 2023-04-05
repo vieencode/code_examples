@@ -1,4 +1,4 @@
-name: pca_notebook
+name: pca_env
 channels:
   - plotly
   - anaconda
