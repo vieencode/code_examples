@@ -1,4 +1,4 @@
-## Collection of analyis/visualization coede examples 
+## Collection of analyis/visualization code examples 
 
 **Principal Component Analysis**
 1. pca_iris_dataset.ipynb
