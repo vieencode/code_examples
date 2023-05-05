@@ -21,6 +21,3 @@
 - install the ipython extension
 - change the python interpreter and select the conda environment you created 
 - open the python script and hit shift+enter to execute each cell
-
-
-
