@@ -3,6 +3,10 @@
 **Principal Component Analysis**
 1. pca_iris_dataset.ipynb
 2. pca_madeup_data.ipynb
+3. pca_plot_function.ipynb
+
+**Differential Gene Expression**
+4. volcano_plot.ipynb
 
 ### Create environment
 
